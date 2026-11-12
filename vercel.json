@@ -9,7 +9,7 @@
     "routes": [
         {
             "src": "(.*)",
-            "dest": "idnex.js"
+            "dest": "index.js"
         }
     ]
 }
